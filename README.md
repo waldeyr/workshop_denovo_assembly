@@ -1,4 +1,4 @@
-# Workshop De novo Aseembly and annotation of bacterial drug resistance genes
+# Workshop de novo Assembly and annotation of bacterial drug resistance genes
 
 The objective of this workflow is to assembly the genome of pathogen [Enterobacter cloacae subsp. cloacae NCTC 9394](https://www.ncbi.nlm.nih.gov/biosample/SAMEA3181516) and find drug-resistent genes
 
